@@ -1,5 +1,9 @@
 ## Verified to work in Release
+This project was derived from the gitea-postgres project in [awesome-compose](https://github.com/docker/awesome-compose)
+
 No modifications were necessary for this project to run in Release.
+
+To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
 
 ## Gitea with PostgreSQL
 This example defines one of the base setups for Gitea. More details on how to customize the installation and the compose file can be found in [Gitea documentation](https://docs.gitea.io/en-us/install-with-docker/).
